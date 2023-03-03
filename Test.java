@@ -1,3 +1,5 @@
-This is my first line
-this is my second Line
-this is my third Line
+Class Test{
+  public static void main(String[] args){
+    System.out.println("hello jenkins");
+  }
+}
