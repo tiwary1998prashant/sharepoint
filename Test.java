@@ -3,5 +3,6 @@ Class Test{
     System.out.println("hello jenkins");
     System.out.println("build trigger");
     System.out.println("build trigger");
+    hbh
   }
 }
